@@ -28,13 +28,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Desarrollo web & App
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 
@@ -42,9 +35,12 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Comandera](https://github.com/PAYTheVendetta/Comandera) | App de gestión de pedidos para restaurantes | React · TypeScript · Supabase · Electron |
-| [minishell](https://github.com/PAYTheVendetta) | Recreación de una shell UNIX desde cero | C · Unix |
-| [libft](https://github.com/PAYTheVendetta/libft) | Librería estándar de C reimplementada | C |
+| [minishell](https://github.com/PAYTheVendetta/minishell) | Recreación de una shell UNIX desde cero, con pipes, redirections y builtins | C · Unix |
+| [fract-ol](https://github.com/PAYTheVendetta/fract-ol) | Visualizador de fractales interactivo (Mandelbrot, Julia...) | C · MiniLibX |
+| [philosophers](https://github.com/PAYTheVendetta/philosophers) | Problema de los filósofos: concurrencia, mutex y threads en C | C · pthreads |
+| [push_swap](https://github.com/PAYTheVendetta/push_swap) | Algoritmo de ordenación con dos pilas y operaciones limitadas | C |
+| [Get_next_line](https://github.com/PAYTheVendetta/Get_next_line) | Función que lee línea a línea desde un file descriptor | C |
+| [libft](https://github.com/PAYTheVendetta/libft) | Librería estándar de C reimplementada desde cero | C |
 | [ft_printf](https://github.com/PAYTheVendetta/printf) | Recreación de printf de la libc | C |
 | [Portafolio](https://github.com/PAYTheVendetta/Portafolio) | Portfolio personal web | HTML · CSS |
 
