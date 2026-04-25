@@ -2,31 +2,13 @@
 
 # Aitor · PAYTheVendetta
 
-**Cadete en 42 Madrid | Microinformática & Redes | Futuro DAM**
+Vine de otro camino, pero llevo dos años sin parar. Hoy estoy en 42 Madrid aprendiendo a base de proyectos reales en C, construyendo desde los cimientos.
+
+Quiero llegar a ser un desarrollador creativo, capaz de resolver cualquier problema con criterio y buen código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-alonso-jusdado-0ba015153)
 
 </div>
-
----
-
-## 🧠 Sobre mí
-
-```c
-typedef struct s_aitor {
-    char    *ubicacion;
-    char    *escuela;
-    char    *objetivo;
-    char    *actualmente;
-}   t_aitor;
-
-t_aitor me = {
-    .ubicacion   = "Vigo, Galicia 🇪🇸",
-    .escuela     = "42 Madrid — peer-to-peer, sin profesores",
-    .objetivo    = "Desarrollador de Aplicaciones Multiplataforma (DAM)",
-    .actualmente = "Construyendo minishell en C",
-};
-```
 
 ---
 
@@ -40,16 +22,6 @@ t_aitor me = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Trofeos
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=PAYTheVendetta&theme=nord&no-frame=true&margin-w=10&column=6)
 
 </div>
 
@@ -88,7 +60,5 @@ t_aitor me = {
 ---
 
 <div align="center">
-
-*"El código que funciona no es suficiente. El código que se entiende, vale."*
-
+<sub>Madrid, España 🇪🇸</sub>
 </div>
