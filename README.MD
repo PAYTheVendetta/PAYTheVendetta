@@ -2,18 +2,14 @@
 
 # Aitor · PAYTheVendetta
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+soy+Aitor;Cadete+en+42+Madrid;Construyendo+desde+los+cimientos" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Aitor;Cadet+at+42+Madrid;Building+from+the+ground+up" alt="Typing SVG" />
 
 ---
 
-Vine de otro camino, pero llevo dos años sin parar. Hoy estoy en 42 Madrid aprendiendo a base de proyectos reales en C, construyendo desde los cimientos.
+I took a different road, but I haven't stopped for two years.
+Today I'm at 42 Madrid learning through real C projects, building everything from scratch.
 
-Quiero llegar a ser un desarrollador creativo, capaz de resolver cualquier problema con criterio y buen código.
+My goal is to become a creative developer — someone who can solve any problem with good judgment and clean code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-alonso-jusdado-0ba015153)
 
@@ -24,6 +20,8 @@ Quiero llegar a ser un desarrollador creativo, capaz de resolver cualquier probl
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 </div>
+
+---
 
 ## 🛠️ Stack
 
@@ -36,29 +34,29 @@ Quiero llegar a ser un desarrollador creativo, capaz de resolver cualquier probl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br/>
+</div>
+
+---
+
+## 📂 Projects — 42 Madrid
+
+<div align="center">
+
+| # | Project | Description | Status |
+|---|---|---|---|
+| 01 | [libft](https://github.com/PAYTheVendetta/libft) | Custom implementation of the C standard library from scratch | ✅ Completed |
+| 02 | [ft_printf](https://github.com/PAYTheVendetta/printf) | Recreation of printf from libc | ✅ Completed |
+| 03 | [Get_next_line](https://github.com/PAYTheVendetta/Get_next_line) | Line-by-line reading from a file descriptor | ✅ Completed |
+| 04 | [push_swap](https://github.com/PAYTheVendetta/push_swap) | Sorting algorithm using two stacks | ✅ Completed |
+| 05 | [philosophers](https://github.com/PAYTheVendetta/philosophers) | Concurrency, mutex and threads — dining philosophers problem | ✅ Completed |
+| 06 | [fract-ol](https://github.com/PAYTheVendetta/fract-ol) | Interactive fractal visualizer (Mandelbrot, Julia) | ✅ Completed |
+| 07 | [minishell](https://github.com/PAYTheVendetta/minishell) | UNIX shell with pipes, redirections and builtins | 🚧 In progress |
 
 </div>
 
 ---
 
-## 📂 Proyectos — 42 Madrid
-
-<div align="center">
-
-| # | Proyecto | Descripción | Estado |
-|---|---|---|---|
-| 01 | [libft](https://github.com/PAYTheVendetta/libft) | Librería estándar de C reimplementada desde cero | ✅ Completado |
-| 02 | [ft_printf](https://github.com/PAYTheVendetta/printf) | Recreación de printf de la libc | ✅ Completado |
-| 03 | [Get_next_line](https://github.com/PAYTheVendetta/Get_next_line) | Lectura línea a línea desde un file descriptor | ✅ Completado |
-| 04 | [push_swap](https://github.com/PAYTheVendetta/push_swap) | Algoritmo de ordenación con dos pilas | ✅ Completado |
-| 05 | [philosophers](https://github.com/PAYTheVendetta/philosophers) | Concurrencia, mutex y threads — problema de los filósofos | ✅ Completado |
-| 06 | [fract-ol](https://github.com/PAYTheVendetta/fract-ol) | Visualizador de fractales interactivo (Mandelbrot, Julia) | ✅ Completado |
-| 07 | [minishell](https://github.com/PAYTheVendetta/minishell) | Shell UNIX con pipes, redirections y builtins | 🚧 En progreso |
-
-</div>
-
-## 📊 Estadísticas
+## 📊 Stats
 
 <div align="center">
 
@@ -77,5 +75,5 @@ Quiero llegar a ser un desarrollador creativo, capaz de resolver cualquier probl
 ---
 
 <div align="center">
-<sub>Madrid, España 🇪🇸</sub>
+<sub>Madrid, Spain 🇪🇸</sub>
 </div>
