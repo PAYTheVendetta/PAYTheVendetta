@@ -1,65 +1,85 @@
 <div align="center">
-
-# Hey, soy Aitor 👋
-
-**Estudiante de Informática · Cadete en 42 Madrid · Futuro DAM**
-
-*Construyendo desde cero. Aprendiendo en profundidad.*
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Aitor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cadete%20en%2042%20Madrid%20%7C%20Microinformática%20%26%20Redes&descAlignY=58&descSize=18)
+ 
 </div>
-
 ---
-
+ 
 ## 🧠 Sobre mí
-
-- 🏫 Cursando **Microinformática y Redes** con objetivo de entrar a **DAM**
-- 💻 Cadete en **[42 Madrid](https://www.42madrid.com/)** — metodología peer-to-peer, sin profesores
-- 🔧 Proyectos actuales: `minishell` en C y `Comandera` (app de gestión para restaurantes)
-- 📍 Vigo, Galicia
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aitor-alonso-jusdado-0ba015153)
-
+ 
+```c
+typedef struct s_aitor {
+    char    *ubicacion;
+    char    *escuela;
+    char    *objetivo;
+    char    *actualmente;
+}   t_aitor;
+ 
+t_aitor me = {
+    .ubicacion   = "Vigo, Galicia 🇪🇸",
+    .escuela     = "42 Madrid — peer-to-peer, sin profesores",
+    .objetivo    = "Desarrollador de Aplicaciones Multiplataforma (DAM)",
+    .actualmente = "Construyendo minishell en C",
+};
+```
+ 
 ---
-
-## 🛠️ Tecnologías
-
-### Sistemas & Bajo nivel
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
----
-
-## 📂 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [minishell](https://github.com/PAYTheVendetta/minishell) | Recreación de una shell UNIX desde cero, con pipes, redirections y builtins | C · Unix |
-| [fract-ol](https://github.com/PAYTheVendetta/fract-ol) | Visualizador de fractales interactivo (Mandelbrot, Julia...) | C · MiniLibX |
-| [philosophers](https://github.com/PAYTheVendetta/philosophers) | Problema de los filósofos: concurrencia, mutex y threads en C | C · pthreads |
-| [push_swap](https://github.com/PAYTheVendetta/push_swap) | Algoritmo de ordenación con dos pilas y operaciones limitadas | C |
-| [Get_next_line](https://github.com/PAYTheVendetta/Get_next_line) | Función que lee línea a línea desde un file descriptor | C |
-| [libft](https://github.com/PAYTheVendetta/libft) | Librería estándar de C reimplementada desde cero | C |
-| [ft_printf](https://github.com/PAYTheVendetta/printf) | Recreación de printf de la libc | C |
-| [Portafolio](https://github.com/PAYTheVendetta/Portafolio) | Portfolio personal web | HTML · CSS |
-
----
-
-## 📊 Estadísticas
-
+ 
+## 🛠️ Stack
+ 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PAYTheVendetta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAYTheVendetta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+ 
 </div>
-
 ---
-
+ 
+## 🏆 Trofeos
+ 
 <div align="center">
-
-*"El código limpio no se escribe a la primera. Se refactoriza."*
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=PAYTheVendetta&theme=nord&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+---
+ 
+## 📂 Proyectos — 42 Madrid
+ 
+| # | Proyecto | Descripción | Estado |
+|---|---|---|---|
+| 01 | [libft](https://github.com/PAYTheVendetta/libft) | Librería estándar de C reimplementada desde cero | ✅ Completado |
+| 02 | [ft_printf](https://github.com/PAYTheVendetta/printf) | Recreación de printf de la libc | ✅ Completado |
+| 03 | [Get_next_line](https://github.com/PAYTheVendetta/Get_next_line) | Lectura línea a línea desde un file descriptor | ✅ Completado |
+| 04 | [push_swap](https://github.com/PAYTheVendetta/push_swap) | Algoritmo de ordenación con dos pilas | ✅ Completado |
+| 05 | [philosophers](https://github.com/PAYTheVendetta/philosophers) | Concurrencia, mutex y threads — problema de los filósofos | ✅ Completado |
+| 06 | [fract-ol](https://github.com/PAYTheVendetta/fract-ol) | Visualizador de fractales interactivo (Mandelbrot, Julia) | ✅ Completado |
+| 07 | [minishell](https://github.com/PAYTheVendetta/minishell) | Shell UNIX con pipes, redirections y builtins | 🚧 En progreso |
+ 
+---
+ 
+## 📊 Estadísticas
+ 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PAYTheVendetta&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYTheVendetta&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=PAYTheVendetta&theme=nord&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+ 
+</div>
+<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PAYTheVendetta&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
+---
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-alonso-jusdado-0ba015153)
+ 
+*"El código que funciona no es suficiente. El código que se entiende, vale."*
+ 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
+ 
 </div>
