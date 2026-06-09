@@ -61,9 +61,9 @@ My goal is to become a creative developer — someone who can solve any problem 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PAYTheVendetta&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats-psi-one-75.vercel.app/api?username=PAYTheVendetta&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYTheVendetta&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-psi-one-75.vercel.app/api/top-langs/?username=PAYTheVendetta&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
