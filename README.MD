@@ -50,7 +50,8 @@ My goal is to become a creative developer — someone who can solve any problem 
 | 04 | [push_swap](https://github.com/PAYTheVendetta/push_swap) | Sorting algorithm using two stacks | ✅ Completed |
 | 05 | [philosophers](https://github.com/PAYTheVendetta/philosophers) | Concurrency, mutex and threads — dining philosophers problem | ✅ Completed |
 | 06 | [fract-ol](https://github.com/PAYTheVendetta/fract-ol) | Interactive fractal visualizer (Mandelbrot, Julia) | ✅ Completed |
-| 07 | [minishell](https://github.com/PAYTheVendetta/minishell) | UNIX shell with pipes, redirections and builtins | 🚧 In progress |
+| 07 | [minishell](https://github.com/PAYTheVendetta/minishell) | UNIX shell with pipes, redirections and builtins | ✅ Completed |
+| 08 | [CPP Modules](https://github.com/PAYTheVendetta/Modus-CPP-42) | Introduction to C++ OOP: classes, inheritance, polymorphism and templates | 🚧 In progress |
 
 </div>
 
